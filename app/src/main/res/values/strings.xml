@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_home">Map</string>
+    <string name="external_dir">GetSignature</string>
+</resources>
